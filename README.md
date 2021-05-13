@@ -5,7 +5,7 @@ ROS packages for the UR5 Robot with MoveIt and RI environment
 
 ## Installation
 
-Clone this and the gripper (robotiq) repositories
+
   ```
   $ git clone https://github.com/Raoufsawas/UR5_Gazebo.git
   ```
