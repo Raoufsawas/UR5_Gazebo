@@ -1,0 +1,8 @@
+prefix=/home/ros/final/ur5_ws/install
+
+Name: gravity_compensation
+Description: Description of gravity_compensation
+Version: 1.2.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lgravity_compensation
+Requires: geometry_msgs sensor_msgs tf tf_conversions eigen_conversions std_srvs

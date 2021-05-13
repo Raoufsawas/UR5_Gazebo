@@ -1,0 +1,2 @@
+force_torque_tools/force_torque_sensor_calib:force_torque_tools/force_torque_tools:force_torque_tools/gravity_compensation:robotiq/robotiq_description:robotiq/robotiq_gazebo:ur5/ur5_description:ur5/ur5_gazebo:ur5/ur5_moveit_ws:ur5_training
+-DCATKIN_DEVEL_PREFIX=/home/ros/final/ur5_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ros/final/ur5_ws/install -G Unix Makefiles

@@ -1,0 +1,23 @@
+controller_list:
+
+
+#-------------for real gripper-----------------------------
+  - name: gripper_controller #/simple_gripper/joint_position_controller
+    action_ns: gripper_cmd #follow_joint_trajectory #Robotiq2FCommand #gripper_action #gripper_cmd
+    type: GripperCommand #FollowJointTrajectory #Robotiq2FActionController #GripperCommand
+    default: true
+    joints:
+      - robotiq_85_left_knuckle_joint
+
+#-------------for real UR5---------------------------------
+
+  - name: arm_controller #or pos_based_pos_traj_controller
+    action_ns: follow_joint_trajectory
+    type: FollowJointTrajectory
+    joints:
+      - shoulder_pan_joint
+      - shoulder_lift_joint
+      - elbow_joint
+      - wrist_1_joint
+      - wrist_2_joint
+      - wrist_3_joint

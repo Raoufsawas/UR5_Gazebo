@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>ur5_gazebo</name>
+  <version>0.0.0</version>
+  <description> UR5 with Gripper </description>
+  <author email="a.sawas.92@gmail.com">raouf</author>
+  <maintainer email="a.sawas.92@gmail.com">raouf</maintainer>
+
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <exec_depend>ur5_description</exec_depend>
+  <exec_depend>robotiq_gazebo</exec_depend>
+
+  <export>
+  </export>
+
+</package>

@@ -1,0 +1,4384 @@
+header: 
+  seq: 1756
+  stamp: 
+    secs: 204
+    nsecs: 808000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941721
+    y: -19.8997996775
+    z: 9.51577920828
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399846
+    z: 1.79277434082
+---
+header: 
+  seq: 1757
+  stamp: 
+    secs: 204
+    nsecs: 812000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.649245271
+    y: 18.4876547768
+    z: -2.08690536912
+  torque: 
+    x: -0.755997112633
+    y: 0.107583556355
+    z: 0.348016010451
+---
+header: 
+  seq: 1758
+  stamp: 
+    secs: 204
+    nsecs: 816000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783263
+    y: 2.02225564199
+    z: 3.07167801438
+  torque: 
+    x: 0.345401661317
+    y: -0.0247352630576
+    z: 0.650061657681
+---
+header: 
+  seq: 1759
+  stamp: 
+    secs: 204
+    nsecs: 820000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941723
+    y: -19.8997996775
+    z: 9.51577920827
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399849
+    z: 1.79277434083
+---
+header: 
+  seq: 1760
+  stamp: 
+    secs: 204
+    nsecs: 824000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.649245271
+    y: 18.4876547769
+    z: -2.0869053691
+  torque: 
+    x: -0.75599711263
+    y: 0.107583556355
+    z: 0.348016010449
+---
+header: 
+  seq: 1761
+  stamp: 
+    secs: 204
+    nsecs: 828000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783262
+    y: 2.022255642
+    z: 3.07167801442
+  torque: 
+    x: 0.345401661321
+    y: -0.024735263055
+    z: 0.650061657678
+---
+header: 
+  seq: 1762
+  stamp: 
+    secs: 204
+    nsecs: 832000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941722
+    y: -19.8997996776
+    z: 9.51577920828
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399848
+    z: 1.79277434084
+---
+header: 
+  seq: 1763
+  stamp: 
+    secs: 204
+    nsecs: 836000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.649245271
+    y: 18.4876547769
+    z: -2.08690536911
+  torque: 
+    x: -0.755997112631
+    y: 0.107583556357
+    z: 0.348016010452
+---
+header: 
+  seq: 1764
+  stamp: 
+    secs: 204
+    nsecs: 840000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783263
+    y: 2.022255642
+    z: 3.0716780144
+  torque: 
+    x: 0.345401661319
+    y: -0.0247352630588
+    z: 0.650061657686
+---
+header: 
+  seq: 1765
+  stamp: 
+    secs: 204
+    nsecs: 844000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941723
+    y: -19.8997996776
+    z: 9.5157792083
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399848
+    z: 1.79277434084
+---
+header: 
+  seq: 1766
+  stamp: 
+    secs: 204
+    nsecs: 848000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.649245271
+    y: 18.4876547768
+    z: -2.0869053691
+  torque: 
+    x: -0.755997112633
+    y: 0.107583556356
+    z: 0.348016010451
+---
+header: 
+  seq: 1767
+  stamp: 
+    secs: 204
+    nsecs: 852000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783263
+    y: 2.022255642
+    z: 3.07167801442
+  torque: 
+    x: 0.345401661322
+    y: -0.0247352630558
+    z: 0.650061657682
+---
+header: 
+  seq: 1768
+  stamp: 
+    secs: 204
+    nsecs: 856000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941722
+    y: -19.8997996776
+    z: 9.51577920827
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399847
+    z: 1.79277434084
+---
+header: 
+  seq: 1769
+  stamp: 
+    secs: 204
+    nsecs: 860000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.649245271
+    y: 18.4876547768
+    z: -2.08690536908
+  torque: 
+    x: -0.75599711263
+    y: 0.107583556355
+    z: 0.348016010448
+---
+header: 
+  seq: 1770
+  stamp: 
+    secs: 204
+    nsecs: 864000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783262
+    y: 2.02225564201
+    z: 3.0716780144
+  torque: 
+    x: 0.345401661318
+    y: -0.0247352630545
+    z: 0.650061657679
+---
+header: 
+  seq: 1771
+  stamp: 
+    secs: 204
+    nsecs: 868000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941722
+    y: -19.8997996775
+    z: 9.51577920829
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399849
+    z: 1.79277434083
+---
+header: 
+  seq: 1772
+  stamp: 
+    secs: 204
+    nsecs: 872000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.6492452711
+    y: 18.4876547768
+    z: -2.08690536909
+  torque: 
+    x: -0.755997112634
+    y: 0.107583556358
+    z: 0.348016010457
+---
+header: 
+  seq: 1773
+  stamp: 
+    secs: 204
+    nsecs: 876000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783262
+    y: 2.02225564199
+    z: 3.07167801442
+  torque: 
+    x: 0.34540166132
+    y: -0.0247352630565
+    z: 0.650061657675
+---
+header: 
+  seq: 1774
+  stamp: 
+    secs: 204
+    nsecs: 880000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941722
+    y: -19.8997996775
+    z: 9.51577920829
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399851
+    z: 1.79277434083
+---
+header: 
+  seq: 1775
+  stamp: 
+    secs: 204
+    nsecs: 884000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.6492452711
+    y: 18.4876547768
+    z: -2.08690536908
+  torque: 
+    x: -0.755997112629
+    y: 0.107583556357
+    z: 0.348016010453
+---
+header: 
+  seq: 1776
+  stamp: 
+    secs: 204
+    nsecs: 888000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783263
+    y: 2.022255642
+    z: 3.07167801438
+  torque: 
+    x: 0.345401661316
+    y: -0.0247352630604
+    z: 0.65006165768
+---
+header: 
+  seq: 1777
+  stamp: 
+    secs: 204
+    nsecs: 892000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941722
+    y: -19.8997996775
+    z: 9.51577920831
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399849
+    z: 1.79277434083
+---
+header: 
+  seq: 1778
+  stamp: 
+    secs: 204
+    nsecs: 896000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.649245271
+    y: 18.4876547768
+    z: -2.08690536912
+  torque: 
+    x: -0.75599711263
+    y: 0.107583556352
+    z: 0.348016010449
+---
+header: 
+  seq: 1779
+  stamp: 
+    secs: 204
+    nsecs: 900000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783263
+    y: 2.02225564201
+    z: 3.0716780144
+  torque: 
+    x: 0.34540166132
+    y: -0.0247352630537
+    z: 0.650061657679
+---
+header: 
+  seq: 1780
+  stamp: 
+    secs: 204
+    nsecs: 904000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941723
+    y: -19.8997996776
+    z: 9.51577920827
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399849
+    z: 1.79277434083
+---
+header: 
+  seq: 1781
+  stamp: 
+    secs: 204
+    nsecs: 908000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.649245271
+    y: 18.4876547769
+    z: -2.08690536911
+  torque: 
+    x: -0.755997112632
+    y: 0.107583556356
+    z: 0.348016010452
+---
+header: 
+  seq: 1782
+  stamp: 
+    secs: 204
+    nsecs: 912000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783263
+    y: 2.02225564203
+    z: 3.07167801438
+  torque: 
+    x: 0.345401661314
+    y: -0.0247352630557
+    z: 0.650061657685
+---
+header: 
+  seq: 1783
+  stamp: 
+    secs: 204
+    nsecs: 916000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941722
+    y: -19.8997996775
+    z: 9.51577920828
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399847
+    z: 1.79277434083
+---
+header: 
+  seq: 1784
+  stamp: 
+    secs: 204
+    nsecs: 920000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.649245271
+    y: 18.4876547769
+    z: -2.08690536912
+  torque: 
+    x: -0.755997112631
+    y: 0.107583556354
+    z: 0.348016010451
+---
+header: 
+  seq: 1785
+  stamp: 
+    secs: 204
+    nsecs: 924000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783261
+    y: 2.02225564197
+    z: 3.07167801437
+  torque: 
+    x: 0.345401661317
+    y: -0.0247352630545
+    z: 0.650061657674
+---
+header: 
+  seq: 1786
+  stamp: 
+    secs: 204
+    nsecs: 928000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941723
+    y: -19.8997996775
+    z: 9.51577920828
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399846
+    z: 1.79277434084
+---
+header: 
+  seq: 1787
+  stamp: 
+    secs: 204
+    nsecs: 932000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.649245271
+    y: 18.4876547768
+    z: -2.08690536909
+  torque: 
+    x: -0.755997112631
+    y: 0.107583556358
+    z: 0.348016010446
+---
+header: 
+  seq: 1788
+  stamp: 
+    secs: 204
+    nsecs: 936000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783262
+    y: 2.02225564201
+    z: 3.07167801437
+  torque: 
+    x: 0.345401661317
+    y: -0.0247352630563
+    z: 0.650061657674
+---
+header: 
+  seq: 1789
+  stamp: 
+    secs: 204
+    nsecs: 940000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941722
+    y: -19.8997996775
+    z: 9.51577920829
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399846
+    z: 1.79277434083
+---
+header: 
+  seq: 1791
+  stamp: 
+    secs: 204
+    nsecs: 948000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783263
+    y: 2.022255642
+    z: 3.07167801441
+  torque: 
+    x: 0.345401661316
+    y: -0.0247352630538
+    z: 0.650061657685
+---
+header: 
+  seq: 1792
+  stamp: 
+    secs: 204
+    nsecs: 952000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941723
+    y: -19.8997996775
+    z: 9.51577920829
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399848
+    z: 1.79277434083
+---
+header: 
+  seq: 1793
+  stamp: 
+    secs: 204
+    nsecs: 956000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.649245271
+    y: 18.4876547768
+    z: -2.08690536916
+  torque: 
+    x: -0.755997112634
+    y: 0.107583556355
+    z: 0.348016010446
+---
+header: 
+  seq: 1794
+  stamp: 
+    secs: 204
+    nsecs: 960000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783264
+    y: 2.02225564199
+    z: 3.07167801439
+  torque: 
+    x: 0.345401661316
+    y: -0.0247352630553
+    z: 0.650061657688
+---
+header: 
+  seq: 1795
+  stamp: 
+    secs: 204
+    nsecs: 964000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941723
+    y: -19.8997996775
+    z: 9.51577920831
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399847
+    z: 1.79277434084
+---
+header: 
+  seq: 1796
+  stamp: 
+    secs: 204
+    nsecs: 968000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.6492452711
+    y: 18.4876547768
+    z: -2.0869053691
+  torque: 
+    x: -0.755997112631
+    y: 0.107583556352
+    z: 0.34801601045
+---
+header: 
+  seq: 1797
+  stamp: 
+    secs: 204
+    nsecs: 972000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783264
+    y: 2.02225564201
+    z: 3.07167801442
+  torque: 
+    x: 0.345401661319
+    y: -0.0247352630601
+    z: 0.65006165769
+---
+header: 
+  seq: 1798
+  stamp: 
+    secs: 204
+    nsecs: 976000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941723
+    y: -19.8997996775
+    z: 9.51577920833
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399848
+    z: 1.79277434084
+---
+header: 
+  seq: 1799
+  stamp: 
+    secs: 204
+    nsecs: 980000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.6492452712
+    y: 18.4876547769
+    z: -2.0869053691
+  torque: 
+    x: -0.755997112631
+    y: 0.107583556352
+    z: 0.348016010459
+---
+header: 
+  seq: 1800
+  stamp: 
+    secs: 204
+    nsecs: 984000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783263
+    y: 2.02225564208
+    z: 3.07167801437
+  torque: 
+    x: 0.345401661316
+    y: -0.0247352630563
+    z: 0.650061657683
+---
+header: 
+  seq: 1801
+  stamp: 
+    secs: 204
+    nsecs: 988000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941721
+    y: -19.8997996776
+    z: 9.51577920831
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399846
+    z: 1.79277434083
+---
+header: 
+  seq: 1802
+  stamp: 
+    secs: 204
+    nsecs: 992000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.6492452711
+    y: 18.4876547768
+    z: -2.0869053691
+  torque: 
+    x: -0.755997112631
+    y: 0.10758355636
+    z: 0.34801601045
+---
+header: 
+  seq: 1803
+  stamp: 
+    secs: 204
+    nsecs: 996000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783263
+    y: 2.02225564202
+    z: 3.07167801438
+  torque: 
+    x: 0.345401661319
+    y: -0.024735263058
+    z: 0.650061657681
+---
+header: 
+  seq: 1804
+  stamp: 
+    secs: 205
+    nsecs:         0
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941722
+    y: -19.8997996776
+    z: 9.5157792083
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399849
+    z: 1.79277434083
+---
+header: 
+  seq: 1805
+  stamp: 
+    secs: 205
+    nsecs:   4000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.649245271
+    y: 18.4876547768
+    z: -2.0869053691
+  torque: 
+    x: -0.755997112631
+    y: 0.107583556357
+    z: 0.348016010448
+---
+header: 
+  seq: 1806
+  stamp: 
+    secs: 205
+    nsecs:   8000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783263
+    y: 2.02225564198
+    z: 3.0716780144
+  torque: 
+    x: 0.345401661317
+    y: -0.0247352630555
+    z: 0.650061657684
+---
+header: 
+  seq: 1807
+  stamp: 
+    secs: 205
+    nsecs:  12000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941722
+    y: -19.8997996775
+    z: 9.5157792083
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399847
+    z: 1.79277434083
+---
+header: 
+  seq: 1808
+  stamp: 
+    secs: 205
+    nsecs:  16000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.6492452711
+    y: 18.4876547769
+    z: -2.08690536914
+  torque: 
+    x: -0.755997112633
+    y: 0.107583556351
+    z: 0.348016010452
+---
+header: 
+  seq: 1809
+  stamp: 
+    secs: 205
+    nsecs:  20000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783263
+    y: 2.02225564199
+    z: 3.0716780144
+  torque: 
+    x: 0.34540166132
+    y: -0.0247352630594
+    z: 0.650061657679
+---
+header: 
+  seq: 1810
+  stamp: 
+    secs: 205
+    nsecs:  24000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941723
+    y: -19.8997996775
+    z: 9.51577920828
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399846
+    z: 1.79277434084
+---
+header: 
+  seq: 1811
+  stamp: 
+    secs: 205
+    nsecs:  28000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.649245271
+    y: 18.4876547768
+    z: -2.08690536908
+  torque: 
+    x: -0.75599711263
+    y: 0.107583556356
+    z: 0.34801601045
+---
+header: 
+  seq: 1812
+  stamp: 
+    secs: 205
+    nsecs:  32000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783264
+    y: 2.02225564201
+    z: 3.07167801442
+  torque: 
+    x: 0.345401661319
+    y: -0.0247352630581
+    z: 0.650061657683
+---
+header: 
+  seq: 1813
+  stamp: 
+    secs: 205
+    nsecs:  36000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941722
+    y: -19.8997996775
+    z: 9.51577920829
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399848
+    z: 1.79277434083
+---
+header: 
+  seq: 1814
+  stamp: 
+    secs: 205
+    nsecs:  40000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.649245271
+    y: 18.4876547769
+    z: -2.08690536913
+  torque: 
+    x: -0.755997112632
+    y: 0.107583556355
+    z: 0.348016010446
+---
+header: 
+  seq: 1815
+  stamp: 
+    secs: 205
+    nsecs:  44000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783262
+    y: 2.02225564196
+    z: 3.07167801442
+  torque: 
+    x: 0.345401661321
+    y: -0.0247352630552
+    z: 0.650061657677
+---
+header: 
+  seq: 1816
+  stamp: 
+    secs: 205
+    nsecs:  48000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941722
+    y: -19.8997996775
+    z: 9.5157792083
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399846
+    z: 1.79277434083
+---
+header: 
+  seq: 1817
+  stamp: 
+    secs: 205
+    nsecs:  52000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.6492452711
+    y: 18.4876547768
+    z: -2.08690536911
+  torque: 
+    x: -0.755997112632
+    y: 0.107583556356
+    z: 0.348016010457
+---
+header: 
+  seq: 1818
+  stamp: 
+    secs: 205
+    nsecs:  56000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783263
+    y: 2.02225564201
+    z: 3.0716780144
+  torque: 
+    x: 0.345401661319
+    y: -0.0247352630547
+    z: 0.650061657685
+---
+header: 
+  seq: 1819
+  stamp: 
+    secs: 205
+    nsecs:  60000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941722
+    y: -19.8997996775
+    z: 9.51577920828
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399846
+    z: 1.79277434083
+---
+header: 
+  seq: 1820
+  stamp: 
+    secs: 205
+    nsecs:  64000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.649245271
+    y: 18.4876547768
+    z: -2.08690536909
+  torque: 
+    x: -0.755997112629
+    y: 0.107583556355
+    z: 0.348016010453
+---
+header: 
+  seq: 1821
+  stamp: 
+    secs: 205
+    nsecs:  68000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783263
+    y: 2.022255642
+    z: 3.07167801439
+  torque: 
+    x: 0.345401661317
+    y: -0.0247352630589
+    z: 0.650061657677
+---
+header: 
+  seq: 1822
+  stamp: 
+    secs: 205
+    nsecs:  72000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941723
+    y: -19.8997996775
+    z: 9.5157792083
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399847
+    z: 1.79277434084
+---
+header: 
+  seq: 1823
+  stamp: 
+    secs: 205
+    nsecs:  76000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.6492452711
+    y: 18.4876547768
+    z: -2.08690536914
+  torque: 
+    x: -0.755997112633
+    y: 0.107583556354
+    z: 0.348016010452
+---
+header: 
+  seq: 1824
+  stamp: 
+    secs: 205
+    nsecs:  80000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783262
+    y: 2.022255642
+    z: 3.07167801439
+  torque: 
+    x: 0.34540166132
+    y: -0.0247352630566
+    z: 0.65006165768
+---
+header: 
+  seq: 1825
+  stamp: 
+    secs: 205
+    nsecs:  84000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941723
+    y: -19.8997996775
+    z: 9.51577920831
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399847
+    z: 1.79277434084
+---
+header: 
+  seq: 1826
+  stamp: 
+    secs: 205
+    nsecs:  88000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.6492452711
+    y: 18.4876547769
+    z: -2.08690536911
+  torque: 
+    x: -0.75599711263
+    y: 0.107583556354
+    z: 0.348016010449
+---
+header: 
+  seq: 1827
+  stamp: 
+    secs: 205
+    nsecs:  92000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783262
+    y: 2.02225564202
+    z: 3.07167801438
+  torque: 
+    x: 0.345401661318
+    y: -0.0247352630546
+    z: 0.650061657678
+---
+header: 
+  seq: 1828
+  stamp: 
+    secs: 205
+    nsecs:  96000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941722
+    y: -19.8997996776
+    z: 9.5157792083
+  torque: 
+    x: 1.40312302392
+    y: -0.10557039985
+    z: 1.79277434083
+---
+header: 
+  seq: 1829
+  stamp: 
+    secs: 205
+    nsecs: 100000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.6492452711
+    y: 18.4876547769
+    z: -2.08690536911
+  torque: 
+    x: -0.755997112629
+    y: 0.107583556354
+    z: 0.348016010457
+---
+header: 
+  seq: 1830
+  stamp: 
+    secs: 205
+    nsecs: 104000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783263
+    y: 2.02225564202
+    z: 3.07167801436
+  torque: 
+    x: 0.345401661316
+    y: -0.024735263059
+    z: 0.650061657678
+---
+header: 
+  seq: 1831
+  stamp: 
+    secs: 205
+    nsecs: 108000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941722
+    y: -19.8997996776
+    z: 9.5157792083
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399848
+    z: 1.79277434083
+---
+header: 
+  seq: 1832
+  stamp: 
+    secs: 205
+    nsecs: 112000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.649245271
+    y: 18.4876547768
+    z: -2.0869053691
+  torque: 
+    x: -0.755997112629
+    y: 0.107583556358
+    z: 0.348016010445
+---
+header: 
+  seq: 1833
+  stamp: 
+    secs: 205
+    nsecs: 116000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783262
+    y: 2.02225564199
+    z: 3.07167801441
+  torque: 
+    x: 0.34540166132
+    y: -0.0247352630548
+    z: 0.65006165768
+---
+header: 
+  seq: 1834
+  stamp: 
+    secs: 205
+    nsecs: 120000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941722
+    y: -19.8997996775
+    z: 9.51577920828
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399845
+    z: 1.79277434083
+---
+header: 
+  seq: 1835
+  stamp: 
+    secs: 205
+    nsecs: 124000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.6492452711
+    y: 18.4876547768
+    z: -2.08690536912
+  torque: 
+    x: -0.755997112633
+    y: 0.107583556357
+    z: 0.348016010454
+---
+header: 
+  seq: 1836
+  stamp: 
+    secs: 205
+    nsecs: 128000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783262
+    y: 2.02225564196
+    z: 3.07167801442
+  torque: 
+    x: 0.345401661323
+    y: -0.0247352630575
+    z: 0.650061657675
+---
+header: 
+  seq: 1837
+  stamp: 
+    secs: 205
+    nsecs: 132000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941722
+    y: -19.8997996776
+    z: 9.51577920827
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399848
+    z: 1.79277434083
+---
+header: 
+  seq: 1838
+  stamp: 
+    secs: 205
+    nsecs: 136000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.6492452711
+    y: 18.4876547768
+    z: -2.08690536911
+  torque: 
+    x: -0.755997112633
+    y: 0.107583556353
+    z: 0.348016010447
+---
+header: 
+  seq: 1839
+  stamp: 
+    secs: 205
+    nsecs: 140000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783262
+    y: 2.02225564201
+    z: 3.07167801441
+  torque: 
+    x: 0.345401661321
+    y: -0.0247352630559
+    z: 0.650061657677
+---
+header: 
+  seq: 1840
+  stamp: 
+    secs: 205
+    nsecs: 144000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941722
+    y: -19.8997996776
+    z: 9.5157792083
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399851
+    z: 1.79277434083
+---
+header: 
+  seq: 1841
+  stamp: 
+    secs: 205
+    nsecs: 148000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.649245271
+    y: 18.4876547768
+    z: -2.08690536909
+  torque: 
+    x: -0.75599711263
+    y: 0.107583556358
+    z: 0.348016010445
+---
+header: 
+  seq: 1842
+  stamp: 
+    secs: 205
+    nsecs: 152000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783262
+    y: 2.02225564197
+    z: 3.07167801436
+  torque: 
+    x: 0.345401661317
+    y: -0.024735263056
+    z: 0.650061657681
+---
+header: 
+  seq: 1843
+  stamp: 
+    secs: 205
+    nsecs: 156000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941722
+    y: -19.8997996776
+    z: 9.5157792083
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399848
+    z: 1.79277434083
+---
+header: 
+  seq: 1844
+  stamp: 
+    secs: 205
+    nsecs: 160000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.6492452711
+    y: 18.4876547768
+    z: -2.08690536908
+  torque: 
+    x: -0.755997112628
+    y: 0.107583556357
+    z: 0.348016010453
+---
+header: 
+  seq: 1845
+  stamp: 
+    secs: 205
+    nsecs: 164000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783263
+    y: 2.022255642
+    z: 3.0716780144
+  torque: 
+    x: 0.345401661319
+    y: -0.0247352630577
+    z: 0.650061657686
+---
+header: 
+  seq: 1846
+  stamp: 
+    secs: 205
+    nsecs: 168000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941722
+    y: -19.8997996776
+    z: 9.51577920831
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399844
+    z: 1.79277434083
+---
+header: 
+  seq: 1847
+  stamp: 
+    secs: 205
+    nsecs: 172000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.6492452711
+    y: 18.4876547768
+    z: -2.08690536912
+  torque: 
+    x: -0.755997112635
+    y: 0.107583556352
+    z: 0.348016010455
+---
+header: 
+  seq: 1848
+  stamp: 
+    secs: 205
+    nsecs: 176000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783262
+    y: 2.02225564201
+    z: 3.07167801442
+  torque: 
+    x: 0.345401661321
+    y: -0.0247352630533
+    z: 0.650061657677
+---
+header: 
+  seq: 1849
+  stamp: 
+    secs: 205
+    nsecs: 180000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941722
+    y: -19.8997996776
+    z: 9.51577920829
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399849
+    z: 1.79277434083
+---
+header: 
+  seq: 1850
+  stamp: 
+    secs: 205
+    nsecs: 184000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.649245271
+    y: 18.4876547769
+    z: -2.08690536913
+  torque: 
+    x: -0.755997112633
+    y: 0.107583556357
+    z: 0.348016010448
+---
+header: 
+  seq: 1851
+  stamp: 
+    secs: 205
+    nsecs: 188000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783263
+    y: 2.02225564201
+    z: 3.07167801441
+  torque: 
+    x: 0.345401661317
+    y: -0.0247352630562
+    z: 0.650061657682
+---
+header: 
+  seq: 1852
+  stamp: 
+    secs: 205
+    nsecs: 192000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941723
+    y: -19.8997996775
+    z: 9.51577920832
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399848
+    z: 1.79277434084
+---
+header: 
+  seq: 1853
+  stamp: 
+    secs: 205
+    nsecs: 196000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.6492452711
+    y: 18.4876547768
+    z: -2.08690536909
+  torque: 
+    x: -0.755997112631
+    y: 0.107583556359
+    z: 0.348016010452
+---
+header: 
+  seq: 1854
+  stamp: 
+    secs: 205
+    nsecs: 200000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783262
+    y: 2.02225564201
+    z: 3.07167801438
+  torque: 
+    x: 0.345401661318
+    y: -0.0247352630586
+    z: 0.650061657678
+---
+header: 
+  seq: 1855
+  stamp: 
+    secs: 205
+    nsecs: 204000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941722
+    y: -19.8997996775
+    z: 9.51577920829
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399847
+    z: 1.79277434083
+---
+header: 
+  seq: 1856
+  stamp: 
+    secs: 205
+    nsecs: 208000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.6492452711
+    y: 18.4876547768
+    z: -2.08690536911
+  torque: 
+    x: -0.75599711263
+    y: 0.107583556353
+    z: 0.348016010451
+---
+header: 
+  seq: 1857
+  stamp: 
+    secs: 205
+    nsecs: 212000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783264
+    y: 2.02225564202
+    z: 3.07167801439
+  torque: 
+    x: 0.345401661318
+    y: -0.0247352630577
+    z: 0.65006165769
+---
+header: 
+  seq: 1858
+  stamp: 
+    secs: 205
+    nsecs: 216000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941722
+    y: -19.8997996775
+    z: 9.51577920829
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399847
+    z: 1.79277434083
+---
+header: 
+  seq: 1859
+  stamp: 
+    secs: 205
+    nsecs: 220000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.6492452711
+    y: 18.4876547768
+    z: -2.08690536909
+  torque: 
+    x: -0.755997112631
+    y: 0.107583556356
+    z: 0.348016010451
+---
+header: 
+  seq: 1860
+  stamp: 
+    secs: 205
+    nsecs: 224000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783263
+    y: 2.022255642
+    z: 3.0716780144
+  torque: 
+    x: 0.345401661317
+    y: -0.0247352630548
+    z: 0.650061657688
+---
+header: 
+  seq: 1861
+  stamp: 
+    secs: 205
+    nsecs: 228000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941722
+    y: -19.8997996776
+    z: 9.51577920829
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399848
+    z: 1.79277434083
+---
+header: 
+  seq: 1862
+  stamp: 
+    secs: 205
+    nsecs: 232000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.6492452711
+    y: 18.4876547768
+    z: -2.0869053691
+  torque: 
+    x: -0.755997112631
+    y: 0.107583556354
+    z: 0.348016010451
+---
+header: 
+  seq: 1863
+  stamp: 
+    secs: 205
+    nsecs: 236000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783262
+    y: 2.02225564198
+    z: 3.07167801442
+  torque: 
+    x: 0.345401661323
+    y: -0.0247352630569
+    z: 0.650061657679
+---
+header: 
+  seq: 1864
+  stamp: 
+    secs: 205
+    nsecs: 240000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941722
+    y: -19.8997996776
+    z: 9.51577920833
+  torque: 
+    x: 1.40312302393
+    y: -0.10557039985
+    z: 1.79277434083
+---
+header: 
+  seq: 1865
+  stamp: 
+    secs: 205
+    nsecs: 244000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.649245271
+    y: 18.4876547768
+    z: -2.08690536913
+  torque: 
+    x: -0.755997112634
+    y: 0.107583556357
+    z: 0.34801601045
+---
+header: 
+  seq: 1866
+  stamp: 
+    secs: 205
+    nsecs: 248000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783263
+    y: 2.022255642
+    z: 3.07167801439
+  torque: 
+    x: 0.345401661318
+    y: -0.0247352630564
+    z: 0.650061657684
+---
+header: 
+  seq: 1867
+  stamp: 
+    secs: 205
+    nsecs: 252000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941722
+    y: -19.8997996775
+    z: 9.51577920831
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399846
+    z: 1.79277434083
+---
+header: 
+  seq: 1868
+  stamp: 
+    secs: 205
+    nsecs: 256000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.6492452711
+    y: 18.4876547768
+    z: -2.08690536911
+  torque: 
+    x: -0.75599711263
+    y: 0.107583556356
+    z: 0.34801601045
+---
+header: 
+  seq: 1869
+  stamp: 
+    secs: 205
+    nsecs: 260000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783263
+    y: 2.02225564202
+    z: 3.07167801437
+  torque: 
+    x: 0.345401661316
+    y: -0.0247352630569
+    z: 0.650061657681
+---
+header: 
+  seq: 1870
+  stamp: 
+    secs: 205
+    nsecs: 264000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941722
+    y: -19.8997996775
+    z: 9.51577920829
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399847
+    z: 1.79277434083
+---
+header: 
+  seq: 1871
+  stamp: 
+    secs: 205
+    nsecs: 268000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.6492452711
+    y: 18.4876547768
+    z: -2.08690536912
+  torque: 
+    x: -0.755997112634
+    y: 0.107583556357
+    z: 0.348016010451
+---
+header: 
+  seq: 1872
+  stamp: 
+    secs: 205
+    nsecs: 272000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783262
+    y: 2.02225564199
+    z: 3.07167801439
+  torque: 
+    x: 0.34540166132
+    y: -0.0247352630556
+    z: 0.65006165768
+---
+header: 
+  seq: 1873
+  stamp: 
+    secs: 205
+    nsecs: 276000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941721
+    y: -19.8997996776
+    z: 9.51577920828
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399847
+    z: 1.79277434083
+---
+header: 
+  seq: 1874
+  stamp: 
+    secs: 205
+    nsecs: 280000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.6492452711
+    y: 18.4876547768
+    z: -2.08690536912
+  torque: 
+    x: -0.755997112632
+    y: 0.107583556355
+    z: 0.348016010462
+---
+header: 
+  seq: 1875
+  stamp: 
+    secs: 205
+    nsecs: 284000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783263
+    y: 2.022255642
+    z: 3.07167801441
+  torque: 
+    x: 0.34540166132
+    y: -0.0247352630564
+    z: 0.65006165768
+---
+header: 
+  seq: 1876
+  stamp: 
+    secs: 205
+    nsecs: 288000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941722
+    y: -19.8997996775
+    z: 9.51577920827
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399847
+    z: 1.79277434083
+---
+header: 
+  seq: 1877
+  stamp: 
+    secs: 205
+    nsecs: 292000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.6492452711
+    y: 18.4876547769
+    z: -2.0869053691
+  torque: 
+    x: -0.755997112632
+    y: 0.107583556357
+    z: 0.348016010449
+---
+header: 
+  seq: 1878
+  stamp: 
+    secs: 205
+    nsecs: 296000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783263
+    y: 2.02225564199
+    z: 3.07167801437
+  torque: 
+    x: 0.345401661317
+    y: -0.0247352630572
+    z: 0.65006165768
+---
+header: 
+  seq: 1879
+  stamp: 
+    secs: 205
+    nsecs: 300000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941723
+    y: -19.8997996775
+    z: 9.5157792083
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399846
+    z: 1.79277434083
+---
+header: 
+  seq: 1880
+  stamp: 
+    secs: 205
+    nsecs: 304000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.6492452711
+    y: 18.4876547768
+    z: -2.0869053691
+  torque: 
+    x: -0.755997112632
+    y: 0.107583556358
+    z: 0.348016010454
+---
+header: 
+  seq: 1881
+  stamp: 
+    secs: 205
+    nsecs: 308000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783262
+    y: 2.02225564198
+    z: 3.07167801439
+  torque: 
+    x: 0.345401661319
+    y: -0.0247352630531
+    z: 0.650061657678
+---
+header: 
+  seq: 1882
+  stamp: 
+    secs: 205
+    nsecs: 312000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941723
+    y: -19.8997996775
+    z: 9.51577920827
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399852
+    z: 1.79277434084
+---
+header: 
+  seq: 1883
+  stamp: 
+    secs: 205
+    nsecs: 316000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.6492452711
+    y: 18.4876547768
+    z: -2.08690536912
+  torque: 
+    x: -0.755997112632
+    y: 0.107583556353
+    z: 0.348016010453
+---
+header: 
+  seq: 1884
+  stamp: 
+    secs: 205
+    nsecs: 320000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783263
+    y: 2.02225564203
+    z: 3.07167801438
+  torque: 
+    x: 0.345401661318
+    y: -0.0247352630573
+    z: 0.650061657676
+---
+header: 
+  seq: 1885
+  stamp: 
+    secs: 205
+    nsecs: 324000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941722
+    y: -19.8997996776
+    z: 9.51577920829
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399846
+    z: 1.79277434083
+---
+header: 
+  seq: 1886
+  stamp: 
+    secs: 205
+    nsecs: 328000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.649245271
+    y: 18.4876547768
+    z: -2.08690536908
+  torque: 
+    x: -0.755997112627
+    y: 0.107583556357
+    z: 0.348016010443
+---
+header: 
+  seq: 1887
+  stamp: 
+    secs: 205
+    nsecs: 332000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783262
+    y: 2.022255642
+    z: 3.07167801439
+  torque: 
+    x: 0.345401661319
+    y: -0.0247352630558
+    z: 0.650061657681
+---
+header: 
+  seq: 1888
+  stamp: 
+    secs: 205
+    nsecs: 336000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941722
+    y: -19.8997996776
+    z: 9.51577920829
+  torque: 
+    x: 1.40312302392
+    y: -0.10557039985
+    z: 1.79277434083
+---
+header: 
+  seq: 1889
+  stamp: 
+    secs: 205
+    nsecs: 340000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.6492452711
+    y: 18.4876547768
+    z: -2.08690536909
+  torque: 
+    x: -0.755997112631
+    y: 0.107583556355
+    z: 0.34801601045
+---
+header: 
+  seq: 1890
+  stamp: 
+    secs: 205
+    nsecs: 344000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783263
+    y: 2.02225564199
+    z: 3.07167801435
+  torque: 
+    x: 0.345401661317
+    y: -0.0247352630577
+    z: 0.650061657681
+---
+header: 
+  seq: 1891
+  stamp: 
+    secs: 205
+    nsecs: 348000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941722
+    y: -19.8997996775
+    z: 9.51577920824
+  torque: 
+    x: 1.40312302391
+    y: -0.105570399845
+    z: 1.79277434083
+---
+header: 
+  seq: 1892
+  stamp: 
+    secs: 205
+    nsecs: 352000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.649245271
+    y: 18.4876547769
+    z: -2.08690536912
+  torque: 
+    x: -0.755997112632
+    y: 0.107583556357
+    z: 0.348016010444
+---
+header: 
+  seq: 1893
+  stamp: 
+    secs: 205
+    nsecs: 356000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783263
+    y: 2.02225564198
+    z: 3.0716780144
+  torque: 
+    x: 0.345401661318
+    y: -0.0247352630558
+    z: 0.650061657682
+---
+header: 
+  seq: 1894
+  stamp: 
+    secs: 205
+    nsecs: 360000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941722
+    y: -19.8997996776
+    z: 9.51577920827
+  torque: 
+    x: 1.40312302392
+    y: -0.10557039985
+    z: 1.79277434083
+---
+header: 
+  seq: 1895
+  stamp: 
+    secs: 205
+    nsecs: 364000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.649245271
+    y: 18.4876547768
+    z: -2.08690536912
+  torque: 
+    x: -0.755997112633
+    y: 0.107583556357
+    z: 0.348016010448
+---
+header: 
+  seq: 1896
+  stamp: 
+    secs: 205
+    nsecs: 368000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783263
+    y: 2.02225564201
+    z: 3.07167801441
+  torque: 
+    x: 0.345401661318
+    y: -0.0247352630531
+    z: 0.650061657683
+---
+header: 
+  seq: 1897
+  stamp: 
+    secs: 205
+    nsecs: 372000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941722
+    y: -19.8997996775
+    z: 9.51577920829
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399845
+    z: 1.79277434083
+---
+header: 
+  seq: 1898
+  stamp: 
+    secs: 205
+    nsecs: 376000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.649245271
+    y: 18.4876547769
+    z: -2.08690536909
+  torque: 
+    x: -0.755997112627
+    y: 0.107583556352
+    z: 0.348016010444
+---
+header: 
+  seq: 1899
+  stamp: 
+    secs: 205
+    nsecs: 380000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783263
+    y: 2.02225564202
+    z: 3.07167801438
+  torque: 
+    x: 0.345401661318
+    y: -0.0247352630567
+    z: 0.650061657681
+---
+header: 
+  seq: 1900
+  stamp: 
+    secs: 205
+    nsecs: 384000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941722
+    y: -19.8997996776
+    z: 9.51577920827
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399847
+    z: 1.79277434083
+---
+header: 
+  seq: 1901
+  stamp: 
+    secs: 205
+    nsecs: 388000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.649245271
+    y: 18.4876547768
+    z: -2.0869053691
+  torque: 
+    x: -0.755997112632
+    y: 0.107583556358
+    z: 0.348016010449
+---
+header: 
+  seq: 1902
+  stamp: 
+    secs: 205
+    nsecs: 392000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783263
+    y: 2.02225564198
+    z: 3.07167801442
+  torque: 
+    x: 0.345401661321
+    y: -0.0247352630586
+    z: 0.650061657682
+---
+header: 
+  seq: 1903
+  stamp: 
+    secs: 205
+    nsecs: 396000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941722
+    y: -19.8997996776
+    z: 9.5157792083
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399849
+    z: 1.79277434083
+---
+header: 
+  seq: 1904
+  stamp: 
+    secs: 205
+    nsecs: 400000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.6492452711
+    y: 18.4876547769
+    z: -2.08690536908
+  torque: 
+    x: -0.75599711263
+    y: 0.107583556354
+    z: 0.348016010454
+---
+header: 
+  seq: 1905
+  stamp: 
+    secs: 205
+    nsecs: 404000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783263
+    y: 2.02225564198
+    z: 3.0716780144
+  torque: 
+    x: 0.34540166132
+    y: -0.0247352630576
+    z: 0.650061657681
+---
+header: 
+  seq: 1906
+  stamp: 
+    secs: 205
+    nsecs: 408000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941722
+    y: -19.8997996775
+    z: 9.51577920829
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399849
+    z: 1.79277434083
+---
+header: 
+  seq: 1907
+  stamp: 
+    secs: 205
+    nsecs: 412000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.6492452711
+    y: 18.4876547769
+    z: -2.08690536912
+  torque: 
+    x: -0.75599711263
+    y: 0.107583556355
+    z: 0.348016010453
+---
+header: 
+  seq: 1908
+  stamp: 
+    secs: 205
+    nsecs: 416000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783263
+    y: 2.02225564201
+    z: 3.07167801442
+  torque: 
+    x: 0.34540166132
+    y: -0.0247352630542
+    z: 0.650061657682
+---
+header: 
+  seq: 1909
+  stamp: 
+    secs: 205
+    nsecs: 420000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941722
+    y: -19.8997996775
+    z: 9.5157792083
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399849
+    z: 1.79277434083
+---
+header: 
+  seq: 1910
+  stamp: 
+    secs: 205
+    nsecs: 424000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.6492452711
+    y: 18.4876547769
+    z: -2.08690536912
+  torque: 
+    x: -0.755997112633
+    y: 0.107583556353
+    z: 0.348016010456
+---
+header: 
+  seq: 1911
+  stamp: 
+    secs: 205
+    nsecs: 428000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783262
+    y: 2.02225564203
+    z: 3.07167801438
+  torque: 
+    x: 0.345401661317
+    y: -0.0247352630558
+    z: 0.650061657682
+---
+header: 
+  seq: 1912
+  stamp: 
+    secs: 205
+    nsecs: 432000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941722
+    y: -19.8997996775
+    z: 9.51577920829
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399851
+    z: 1.79277434084
+---
+header: 
+  seq: 1913
+  stamp: 
+    secs: 205
+    nsecs: 436000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.6492452711
+    y: 18.4876547769
+    z: -2.0869053691
+  torque: 
+    x: -0.755997112629
+    y: 0.107583556354
+    z: 0.348016010449
+---
+header: 
+  seq: 1914
+  stamp: 
+    secs: 205
+    nsecs: 440000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783263
+    y: 2.02225564202
+    z: 3.07167801437
+  torque: 
+    x: 0.345401661315
+    y: -0.0247352630574
+    z: 0.650061657686
+---
+header: 
+  seq: 1915
+  stamp: 
+    secs: 205
+    nsecs: 444000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941722
+    y: -19.8997996775
+    z: 9.51577920831
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399848
+    z: 1.79277434083
+---
+header: 
+  seq: 1916
+  stamp: 
+    secs: 205
+    nsecs: 448000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.6492452711
+    y: 18.4876547768
+    z: -2.08690536909
+  torque: 
+    x: -0.75599711263
+    y: 0.107583556357
+    z: 0.348016010453
+---
+header: 
+  seq: 1917
+  stamp: 
+    secs: 205
+    nsecs: 452000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783262
+    y: 2.022255642
+    z: 3.0716780144
+  torque: 
+    x: 0.345401661319
+    y: -0.0247352630548
+    z: 0.650061657673
+---
+header: 
+  seq: 1918
+  stamp: 
+    secs: 205
+    nsecs: 456000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941722
+    y: -19.8997996775
+    z: 9.51577920827
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399845
+    z: 1.79277434083
+---
+header: 
+  seq: 1919
+  stamp: 
+    secs: 205
+    nsecs: 460000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.649245271
+    y: 18.4876547768
+    z: -2.08690536912
+  torque: 
+    x: -0.755997112632
+    y: 0.107583556358
+    z: 0.348016010451
+---
+header: 
+  seq: 1920
+  stamp: 
+    secs: 205
+    nsecs: 464000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783263
+    y: 2.02225564201
+    z: 3.07167801439
+  torque: 
+    x: 0.345401661317
+    y: -0.0247352630541
+    z: 0.650061657682
+---
+header: 
+  seq: 1921
+  stamp: 
+    secs: 205
+    nsecs: 468000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941722
+    y: -19.8997996775
+    z: 9.51577920827
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399848
+    z: 1.79277434084
+---
+header: 
+  seq: 1922
+  stamp: 
+    secs: 205
+    nsecs: 472000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.649245271
+    y: 18.4876547769
+    z: -2.08690536912
+  torque: 
+    x: -0.755997112632
+    y: 0.107583556358
+    z: 0.348016010446
+---
+header: 
+  seq: 1923
+  stamp: 
+    secs: 205
+    nsecs: 476000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783263
+    y: 2.02225564201
+    z: 3.07167801436
+  torque: 
+    x: 0.345401661315
+    y: -0.0247352630593
+    z: 0.65006165768
+---
+header: 
+  seq: 1924
+  stamp: 
+    secs: 205
+    nsecs: 480000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941723
+    y: -19.8997996776
+    z: 9.51577920828
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399852
+    z: 1.79277434084
+---
+header: 
+  seq: 1925
+  stamp: 
+    secs: 205
+    nsecs: 484000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.6492452711
+    y: 18.4876547768
+    z: -2.0869053691
+  torque: 
+    x: -0.755997112629
+    y: 0.107583556354
+    z: 0.348016010454
+---
+header: 
+  seq: 1926
+  stamp: 
+    secs: 205
+    nsecs: 488000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783263
+    y: 2.02225564199
+    z: 3.07167801438
+  torque: 
+    x: 0.345401661318
+    y: -0.0247352630553
+    z: 0.650061657679
+---
+header: 
+  seq: 1928
+  stamp: 
+    secs: 205
+    nsecs: 496000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.6492452711
+    y: 18.4876547769
+    z: -2.0869053691
+  torque: 
+    x: -0.755997112629
+    y: 0.107583556356
+    z: 0.348016010454
+---
+header: 
+  seq: 1929
+  stamp: 
+    secs: 205
+    nsecs: 500000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783263
+    y: 2.02225564197
+    z: 3.0716780144
+  torque: 
+    x: 0.345401661318
+    y: -0.0247352630551
+    z: 0.650061657681
+---
+header: 
+  seq: 1930
+  stamp: 
+    secs: 205
+    nsecs: 504000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941722
+    y: -19.8997996775
+    z: 9.51577920828
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399847
+    z: 1.79277434083
+---
+header: 
+  seq: 1931
+  stamp: 
+    secs: 205
+    nsecs: 508000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.6492452711
+    y: 18.4876547768
+    z: -2.08690536912
+  torque: 
+    x: -0.755997112635
+    y: 0.107583556352
+    z: 0.348016010453
+---
+header: 
+  seq: 1932
+  stamp: 
+    secs: 205
+    nsecs: 512000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783263
+    y: 2.02225564199
+    z: 3.07167801436
+  torque: 
+    x: 0.345401661315
+    y: -0.0247352630577
+    z: 0.650061657685
+---
+header: 
+  seq: 1933
+  stamp: 
+    secs: 205
+    nsecs: 516000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941721
+    y: -19.8997996776
+    z: 9.5157792083
+  torque: 
+    x: 1.40312302393
+    y: -0.105570399846
+    z: 1.79277434082
+---
+header: 
+  seq: 1934
+  stamp: 
+    secs: 205
+    nsecs: 520000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.649245271
+    y: 18.4876547769
+    z: -2.08690536913
+  torque: 
+    x: -0.75599711263
+    y: 0.107583556354
+    z: 0.348016010447
+---
+header: 
+  seq: 1935
+  stamp: 
+    secs: 205
+    nsecs: 524000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783263
+    y: 2.02225564199
+    z: 3.07167801441
+  torque: 
+    x: 0.345401661319
+    y: -0.0247352630562
+    z: 0.65006165768
+---
+header: 
+  seq: 1936
+  stamp: 
+    secs: 205
+    nsecs: 528000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941722
+    y: -19.8997996776
+    z: 9.51577920828
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399847
+    z: 1.79277434083
+---
+header: 
+  seq: 1937
+  stamp: 
+    secs: 205
+    nsecs: 532000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.6492452711
+    y: 18.4876547768
+    z: -2.08690536911
+  torque: 
+    x: -0.755997112632
+    y: 0.107583556351
+    z: 0.348016010454
+---
+header: 
+  seq: 1938
+  stamp: 
+    secs: 205
+    nsecs: 536000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783263
+    y: 2.02225564201
+    z: 3.07167801437
+  torque: 
+    x: 0.345401661317
+    y: -0.0247352630569
+    z: 0.650061657684
+---
+header: 
+  seq: 1939
+  stamp: 
+    secs: 205
+    nsecs: 540000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941723
+    y: -19.8997996775
+    z: 9.51577920829
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399849
+    z: 1.79277434084
+---
+header: 
+  seq: 1940
+  stamp: 
+    secs: 205
+    nsecs: 544000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.649245271
+    y: 18.4876547768
+    z: -2.08690536909
+  torque: 
+    x: -0.75599711263
+    y: 0.107583556357
+    z: 0.348016010447
+---
+header: 
+  seq: 1941
+  stamp: 
+    secs: 205
+    nsecs: 548000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783263
+    y: 2.02225564201
+    z: 3.07167801437
+  torque: 
+    x: 0.345401661315
+    y: -0.024735263058
+    z: 0.650061657681
+---
+header: 
+  seq: 1942
+  stamp: 
+    secs: 205
+    nsecs: 552000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941722
+    y: -19.8997996775
+    z: 9.51577920828
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399847
+    z: 1.79277434083
+---
+header: 
+  seq: 1943
+  stamp: 
+    secs: 205
+    nsecs: 556000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.6492452711
+    y: 18.4876547768
+    z: -2.08690536909
+  torque: 
+    x: -0.755997112628
+    y: 0.107583556354
+    z: 0.348016010453
+---
+header: 
+  seq: 1944
+  stamp: 
+    secs: 205
+    nsecs: 560000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783263
+    y: 2.02225564201
+    z: 3.07167801441
+  torque: 
+    x: 0.345401661318
+    y: -0.0247352630598
+    z: 0.650061657681
+---
+header: 
+  seq: 1945
+  stamp: 
+    secs: 205
+    nsecs: 564000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941722
+    y: -19.8997996776
+    z: 9.51577920829
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399844
+    z: 1.79277434083
+---
+header: 
+  seq: 1946
+  stamp: 
+    secs: 205
+    nsecs: 568000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.6492452711
+    y: 18.4876547769
+    z: -2.08690536912
+  torque: 
+    x: -0.755997112631
+    y: 0.107583556355
+    z: 0.348016010449
+---
+header: 
+  seq: 1947
+  stamp: 
+    secs: 205
+    nsecs: 572000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783263
+    y: 2.02225564199
+    z: 3.07167801439
+  torque: 
+    x: 0.34540166132
+    y: -0.0247352630568
+    z: 0.650061657685
+---
+header: 
+  seq: 1948
+  stamp: 
+    secs: 205
+    nsecs: 576000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941723
+    y: -19.8997996775
+    z: 9.51577920832
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399846
+    z: 1.79277434084
+---
+header: 
+  seq: 1949
+  stamp: 
+    secs: 205
+    nsecs: 580000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.649245271
+    y: 18.4876547768
+    z: -2.08690536912
+  torque: 
+    x: -0.755997112631
+    y: 0.107583556355
+    z: 0.348016010444
+---
+header: 
+  seq: 1950
+  stamp: 
+    secs: 205
+    nsecs: 584000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783263
+    y: 2.02225564199
+    z: 3.07167801442
+  torque: 
+    x: 0.345401661321
+    y: -0.0247352630581
+    z: 0.650061657681
+---
+header: 
+  seq: 1951
+  stamp: 
+    secs: 205
+    nsecs: 588000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941723
+    y: -19.8997996776
+    z: 9.5157792083
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399848
+    z: 1.79277434083
+---
+header: 
+  seq: 1952
+  stamp: 
+    secs: 205
+    nsecs: 592000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.6492452711
+    y: 18.4876547769
+    z: -2.08690536911
+  torque: 
+    x: -0.755997112631
+    y: 0.107583556355
+    z: 0.348016010453
+---
+header: 
+  seq: 1953
+  stamp: 
+    secs: 205
+    nsecs: 596000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783263
+    y: 2.02225564198
+    z: 3.07167801439
+  torque: 
+    x: 0.345401661318
+    y: -0.0247352630571
+    z: 0.650061657684
+---
+header: 
+  seq: 1954
+  stamp: 
+    secs: 205
+    nsecs: 600000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941721
+    y: -19.8997996776
+    z: 9.51577920831
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399846
+    z: 1.79277434082
+---
+header: 
+  seq: 1955
+  stamp: 
+    secs: 205
+    nsecs: 604000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.649245271
+    y: 18.4876547768
+    z: -2.0869053691
+  torque: 
+    x: -0.755997112627
+    y: 0.107583556356
+    z: 0.348016010445
+---
+header: 
+  seq: 1956
+  stamp: 
+    secs: 205
+    nsecs: 608000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783262
+    y: 2.02225564199
+    z: 3.0716780144
+  torque: 
+    x: 0.345401661317
+    y: -0.0247352630538
+    z: 0.650061657679
+---
+header: 
+  seq: 1957
+  stamp: 
+    secs: 205
+    nsecs: 612000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941722
+    y: -19.8997996775
+    z: 9.51577920828
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399847
+    z: 1.79277434083
+---
+header: 
+  seq: 1958
+  stamp: 
+    secs: 205
+    nsecs: 616000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.649245271
+    y: 18.4876547768
+    z: -2.08690536911
+  torque: 
+    x: -0.75599711263
+    y: 0.107583556354
+    z: 0.348016010447
+---
+header: 
+  seq: 1959
+  stamp: 
+    secs: 205
+    nsecs: 620000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783263
+    y: 2.02225564201
+    z: 3.07167801438
+  torque: 
+    x: 0.345401661317
+    y: -0.0247352630575
+    z: 0.650061657683
+---
+header: 
+  seq: 1960
+  stamp: 
+    secs: 205
+    nsecs: 624000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941722
+    y: -19.8997996775
+    z: 9.51577920829
+  torque: 
+    x: 1.40312302392
+    y: -0.10557039985
+    z: 1.79277434084
+---
+header: 
+  seq: 1961
+  stamp: 
+    secs: 205
+    nsecs: 628000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.6492452711
+    y: 18.4876547769
+    z: -2.0869053691
+  torque: 
+    x: -0.755997112633
+    y: 0.107583556356
+    z: 0.348016010455
+---
+header: 
+  seq: 1962
+  stamp: 
+    secs: 205
+    nsecs: 632000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783264
+    y: 2.02225564203
+    z: 3.07167801444
+  torque: 
+    x: 0.34540166132
+    y: -0.0247352630548
+    z: 0.650061657686
+---
+header: 
+  seq: 1963
+  stamp: 
+    secs: 205
+    nsecs: 636000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941722
+    y: -19.8997996775
+    z: 9.51577920832
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399849
+    z: 1.79277434083
+---
+header: 
+  seq: 1964
+  stamp: 
+    secs: 205
+    nsecs: 640000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.6492452712
+    y: 18.4876547769
+    z: -2.08690536912
+  torque: 
+    x: -0.755997112634
+    y: 0.107583556354
+    z: 0.34801601046
+---
+header: 
+  seq: 1965
+  stamp: 
+    secs: 205
+    nsecs: 644000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783263
+    y: 2.02225564203
+    z: 3.07167801441
+  torque: 
+    x: 0.345401661319
+    y: -0.0247352630581
+    z: 0.65006165768
+---
+header: 
+  seq: 1966
+  stamp: 
+    secs: 205
+    nsecs: 648000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941722
+    y: -19.8997996775
+    z: 9.51577920828
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399847
+    z: 1.79277434083
+---
+header: 
+  seq: 1967
+  stamp: 
+    secs: 205
+    nsecs: 652000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.649245271
+    y: 18.4876547768
+    z: -2.08690536909
+  torque: 
+    x: -0.755997112629
+    y: 0.107583556356
+    z: 0.348016010451
+---
+header: 
+  seq: 1968
+  stamp: 
+    secs: 205
+    nsecs: 656000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783263
+    y: 2.02225564198
+    z: 3.07167801441
+  torque: 
+    x: 0.34540166132
+    y: -0.0247352630567
+    z: 0.650061657682
+---
+header: 
+  seq: 1969
+  stamp: 
+    secs: 205
+    nsecs: 660000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941722
+    y: -19.8997996775
+    z: 9.51577920829
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399848
+    z: 1.79277434084
+---
+header: 
+  seq: 1970
+  stamp: 
+    secs: 205
+    nsecs: 664000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.6492452712
+    y: 18.4876547769
+    z: -2.08690536911
+  torque: 
+    x: -0.755997112632
+    y: 0.107583556358
+    z: 0.348016010459
+---
+header: 
+  seq: 1971
+  stamp: 
+    secs: 205
+    nsecs: 668000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783263
+    y: 2.022255642
+    z: 3.07167801439
+  torque: 
+    x: 0.345401661319
+    y: -0.0247352630535
+    z: 0.650061657683
+---
+header: 
+  seq: 1972
+  stamp: 
+    secs: 205
+    nsecs: 672000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941722
+    y: -19.8997996776
+    z: 9.5157792083
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399848
+    z: 1.79277434083
+---
+header: 
+  seq: 1973
+  stamp: 
+    secs: 205
+    nsecs: 676000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.6492452711
+    y: 18.4876547768
+    z: -2.0869053691
+  torque: 
+    x: -0.755997112628
+    y: 0.107583556357
+    z: 0.348016010453
+---
+header: 
+  seq: 1974
+  stamp: 
+    secs: 205
+    nsecs: 680000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783263
+    y: 2.02225564197
+    z: 3.07167801441
+  torque: 
+    x: 0.34540166132
+    y: -0.0247352630562
+    z: 0.650061657682
+---
+header: 
+  seq: 1975
+  stamp: 
+    secs: 205
+    nsecs: 684000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941723
+    y: -19.8997996775
+    z: 9.51577920831
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399847
+    z: 1.79277434084
+---
+header: 
+  seq: 1976
+  stamp: 
+    secs: 205
+    nsecs: 688000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.649245271
+    y: 18.4876547768
+    z: -2.08690536913
+  torque: 
+    x: -0.755997112636
+    y: 0.107583556356
+    z: 0.348016010448
+---
+header: 
+  seq: 1977
+  stamp: 
+    secs: 205
+    nsecs: 692000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783262
+    y: 2.022255642
+    z: 3.07167801435
+  torque: 
+    x: 0.345401661317
+    y: -0.0247352630581
+    z: 0.650061657675
+---
+header: 
+  seq: 1978
+  stamp: 
+    secs: 205
+    nsecs: 696000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941722
+    y: -19.8997996776
+    z: 9.51577920829
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399847
+    z: 1.79277434083
+---
+header: 
+  seq: 1979
+  stamp: 
+    secs: 205
+    nsecs: 700000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.649245271
+    y: 18.4876547768
+    z: -2.08690536912
+  torque: 
+    x: -0.755997112631
+    y: 0.107583556355
+    z: 0.348016010449
+---
+header: 
+  seq: 1980
+  stamp: 
+    secs: 205
+    nsecs: 704000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783263
+    y: 2.02225564199
+    z: 3.07167801439
+  torque: 
+    x: 0.345401661319
+    y: -0.0247352630548
+    z: 0.650061657684
+---
+header: 
+  seq: 1981
+  stamp: 
+    secs: 205
+    nsecs: 708000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941722
+    y: -19.8997996775
+    z: 9.5157792083
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399849
+    z: 1.79277434083
+---
+header: 
+  seq: 1982
+  stamp: 
+    secs: 205
+    nsecs: 712000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.6492452711
+    y: 18.4876547768
+    z: -2.08690536909
+  torque: 
+    x: -0.755997112631
+    y: 0.107583556352
+    z: 0.348016010449
+---
+header: 
+  seq: 1983
+  stamp: 
+    secs: 205
+    nsecs: 716000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783263
+    y: 2.02225564205
+    z: 3.07167801437
+  torque: 
+    x: 0.345401661318
+    y: -0.0247352630577
+    z: 0.650061657682
+---
+header: 
+  seq: 1984
+  stamp: 
+    secs: 205
+    nsecs: 720000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941722
+    y: -19.8997996776
+    z: 9.51577920832
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399846
+    z: 1.79277434083
+---
+header: 
+  seq: 1985
+  stamp: 
+    secs: 205
+    nsecs: 724000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.649245271
+    y: 18.4876547769
+    z: -2.08690536911
+  torque: 
+    x: -0.75599711263
+    y: 0.107583556355
+    z: 0.348016010449
+---
+header: 
+  seq: 1986
+  stamp: 
+    secs: 205
+    nsecs: 728000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783263
+    y: 2.02225564199
+    z: 3.0716780144
+  torque: 
+    x: 0.34540166132
+    y: -0.024735263057
+    z: 0.650061657678
+---
+header: 
+  seq: 1987
+  stamp: 
+    secs: 205
+    nsecs: 732000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941722
+    y: -19.8997996775
+    z: 9.51577920827
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399848
+    z: 1.79277434083
+---
+header: 
+  seq: 1988
+  stamp: 
+    secs: 205
+    nsecs: 736000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.6492452711
+    y: 18.4876547768
+    z: -2.08690536912
+  torque: 
+    x: -0.755997112631
+    y: 0.107583556351
+    z: 0.348016010448
+---
+header: 
+  seq: 1989
+  stamp: 
+    secs: 205
+    nsecs: 740000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783263
+    y: 2.02225564197
+    z: 3.07167801441
+  torque: 
+    x: 0.345401661319
+    y: -0.0247352630567
+    z: 0.650061657681
+---
+header: 
+  seq: 1990
+  stamp: 
+    secs: 205
+    nsecs: 744000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941723
+    y: -19.8997996775
+    z: 9.51577920828
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399845
+    z: 1.79277434084
+---
+header: 
+  seq: 1991
+  stamp: 
+    secs: 205
+    nsecs: 748000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.649245271
+    y: 18.4876547768
+    z: -2.08690536911
+  torque: 
+    x: -0.75599711263
+    y: 0.107583556357
+    z: 0.348016010445
+---
+header: 
+  seq: 1992
+  stamp: 
+    secs: 205
+    nsecs: 752000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783263
+    y: 2.022255642
+    z: 3.07167801442
+  torque: 
+    x: 0.345401661321
+    y: -0.024735263054
+    z: 0.650061657684
+---
+header: 
+  seq: 1993
+  stamp: 
+    secs: 205
+    nsecs: 756000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941722
+    y: -19.8997996776
+    z: 9.5157792083
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399849
+    z: 1.79277434083
+---
+header: 
+  seq: 1994
+  stamp: 
+    secs: 205
+    nsecs: 760000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.6492452711
+    y: 18.4876547768
+    z: -2.0869053691
+  torque: 
+    x: -0.755997112631
+    y: 0.107583556354
+    z: 0.348016010456
+---
+header: 
+  seq: 1995
+  stamp: 
+    secs: 205
+    nsecs: 764000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783263
+    y: 2.02225564201
+    z: 3.0716780144
+  torque: 
+    x: 0.345401661319
+    y: -0.0247352630578
+    z: 0.650061657682
+---
+header: 
+  seq: 1996
+  stamp: 
+    secs: 205
+    nsecs: 768000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941723
+    y: -19.8997996775
+    z: 9.51577920827
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399848
+    z: 1.79277434084
+---
+header: 
+  seq: 1997
+  stamp: 
+    secs: 205
+    nsecs: 772000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.649245271
+    y: 18.4876547768
+    z: -2.08690536912
+  torque: 
+    x: -0.755997112631
+    y: 0.107583556355
+    z: 0.348016010449
+---
+header: 
+  seq: 1998
+  stamp: 
+    secs: 205
+    nsecs: 776000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783262
+    y: 2.02225564198
+    z: 3.07167801439
+  torque: 
+    x: 0.345401661318
+    y: -0.0247352630541
+    z: 0.650061657681
+---
+header: 
+  seq: 1999
+  stamp: 
+    secs: 205
+    nsecs: 780000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941722
+    y: -19.8997996775
+    z: 9.51577920828
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399847
+    z: 1.79277434084
+---
+header: 
+  seq: 2000
+  stamp: 
+    secs: 205
+    nsecs: 784000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.649245271
+    y: 18.4876547768
+    z: -2.08690536909
+  torque: 
+    x: -0.75599711263
+    y: 0.107583556356
+    z: 0.348016010449
+---
+header: 
+  seq: 2001
+  stamp: 
+    secs: 205
+    nsecs: 788000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783263
+    y: 2.02225564203
+    z: 3.07167801437
+  torque: 
+    x: 0.345401661315
+    y: -0.024735263055
+    z: 0.650061657682
+---
+header: 
+  seq: 2002
+  stamp: 
+    secs: 205
+    nsecs: 792000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941722
+    y: -19.8997996776
+    z: 9.51577920828
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399848
+    z: 1.79277434083
+---
+header: 
+  seq: 2003
+  stamp: 
+    secs: 205
+    nsecs: 796000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.649245271
+    y: 18.4876547768
+    z: -2.08690536911
+  torque: 
+    x: -0.755997112633
+    y: 0.107583556358
+    z: 0.348016010454
+---
+header: 
+  seq: 2004
+  stamp: 
+    secs: 205
+    nsecs: 800000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783263
+    y: 2.02225564202
+    z: 3.07167801438
+  torque: 
+    x: 0.345401661317
+    y: -0.0247352630531
+    z: 0.650061657687
+---
+header: 
+  seq: 2005
+  stamp: 
+    secs: 205
+    nsecs: 804000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941722
+    y: -19.8997996776
+    z: 9.51577920829
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399847
+    z: 1.79277434084
+---
+header: 
+  seq: 2006
+  stamp: 
+    secs: 205
+    nsecs: 808000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.649245271
+    y: 18.4876547769
+    z: -2.08690536913
+  torque: 
+    x: -0.755997112632
+    y: 0.107583556355
+    z: 0.348016010449
+---
+header: 
+  seq: 2007
+  stamp: 
+    secs: 205
+    nsecs: 812000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783263
+    y: 2.02225564199
+    z: 3.07167801441
+  torque: 
+    x: 0.34540166132
+    y: -0.0247352630595
+    z: 0.650061657684
+---
+header: 
+  seq: 2008
+  stamp: 
+    secs: 205
+    nsecs: 816000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941722
+    y: -19.8997996776
+    z: 9.51577920832
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399849
+    z: 1.79277434083
+---
+header: 
+  seq: 2009
+  stamp: 
+    secs: 205
+    nsecs: 820000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.6492452711
+    y: 18.4876547768
+    z: -2.08690536911
+  torque: 
+    x: -0.755997112633
+    y: 0.107583556355
+    z: 0.348016010456
+---
+header: 
+  seq: 2010
+  stamp: 
+    secs: 205
+    nsecs: 824000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783263
+    y: 2.02225564199
+    z: 3.07167801442
+  torque: 
+    x: 0.345401661319
+    y: -0.0247352630538
+    z: 0.650061657689
+---
+header: 
+  seq: 2011
+  stamp: 
+    secs: 205
+    nsecs: 828000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941723
+    y: -19.8997996775
+    z: 9.51577920829
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399848
+    z: 1.79277434084
+---
+header: 
+  seq: 2012
+  stamp: 
+    secs: 205
+    nsecs: 832000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.649245271
+    y: 18.4876547768
+    z: -2.08690536913
+  torque: 
+    x: -0.755997112631
+    y: 0.107583556356
+    z: 0.348016010445
+---
+header: 
+  seq: 2013
+  stamp: 
+    secs: 205
+    nsecs: 836000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783262
+    y: 2.02225564198
+    z: 3.0716780144
+  torque: 
+    x: 0.345401661322
+    y: -0.0247352630562
+    z: 0.650061657676
+---
+header: 
+  seq: 2014
+  stamp: 
+    secs: 205
+    nsecs: 840000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941723
+    y: -19.8997996776
+    z: 9.51577920828
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399847
+    z: 1.79277434083
+---
+header: 
+  seq: 2015
+  stamp: 
+    secs: 205
+    nsecs: 844000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.649245271
+    y: 18.4876547768
+    z: -2.08690536911
+  torque: 
+    x: -0.755997112632
+    y: 0.107583556358
+    z: 0.348016010447
+---
+header: 
+  seq: 2016
+  stamp: 
+    secs: 205
+    nsecs: 848000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783264
+    y: 2.02225564199
+    z: 3.07167801441
+  torque: 
+    x: 0.34540166132
+    y: -0.0247352630562
+    z: 0.650061657689
+---
+header: 
+  seq: 2017
+  stamp: 
+    secs: 205
+    nsecs: 852000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941722
+    y: -19.8997996776
+    z: 9.51577920829
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399847
+    z: 1.79277434083
+---
+header: 
+  seq: 2018
+  stamp: 
+    secs: 205
+    nsecs: 856000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.649245271
+    y: 18.4876547768
+    z: -2.08690536911
+  torque: 
+    x: -0.755997112631
+    y: 0.107583556353
+    z: 0.348016010452
+---
+header: 
+  seq: 2019
+  stamp: 
+    secs: 205
+    nsecs: 860000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783263
+    y: 2.022255642
+    z: 3.07167801443
+  torque: 
+    x: 0.34540166132
+    y: -0.0247352630532
+    z: 0.650061657681
+---
+header: 
+  seq: 2020
+  stamp: 
+    secs: 205
+    nsecs: 864000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941722
+    y: -19.8997996775
+    z: 9.51577920825
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399851
+    z: 1.79277434084
+---
+header: 
+  seq: 2021
+  stamp: 
+    secs: 205
+    nsecs: 868000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.649245271
+    y: 18.4876547769
+    z: -2.08690536909
+  torque: 
+    x: -0.755997112629
+    y: 0.107583556358
+    z: 0.348016010451
+---
+header: 
+  seq: 2022
+  stamp: 
+    secs: 205
+    nsecs: 872000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783263
+    y: 2.02225564197
+    z: 3.07167801441
+  torque: 
+    x: 0.345401661321
+    y: -0.0247352630538
+    z: 0.650061657681
+---
+header: 
+  seq: 2023
+  stamp: 
+    secs: 205
+    nsecs: 876000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941723
+    y: -19.8997996775
+    z: 9.51577920831
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399847
+    z: 1.79277434084
+---
+header: 
+  seq: 2024
+  stamp: 
+    secs: 205
+    nsecs: 880000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.6492452711
+    y: 18.4876547769
+    z: -2.0869053691
+  torque: 
+    x: -0.755997112629
+    y: 0.107583556357
+    z: 0.348016010451
+---
+header: 
+  seq: 2025
+  stamp: 
+    secs: 205
+    nsecs: 884000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783263
+    y: 2.02225564199
+    z: 3.07167801437
+  torque: 
+    x: 0.345401661317
+    y: -0.0247352630554
+    z: 0.650061657682
+---
+header: 
+  seq: 2026
+  stamp: 
+    secs: 205
+    nsecs: 888000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941722
+    y: -19.8997996776
+    z: 9.51577920831
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399849
+    z: 1.79277434083
+---
+header: 
+  seq: 2027
+  stamp: 
+    secs: 205
+    nsecs: 892000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.6492452712
+    y: 18.4876547768
+    z: -2.0869053691
+  torque: 
+    x: -0.755997112629
+    y: 0.107583556355
+    z: 0.34801601046
+---
+header: 
+  seq: 2028
+  stamp: 
+    secs: 205
+    nsecs: 896000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783263
+    y: 2.02225564203
+    z: 3.07167801435
+  torque: 
+    x: 0.345401661311
+    y: -0.0247352630556
+    z: 0.650061657682
+---
+header: 
+  seq: 2029
+  stamp: 
+    secs: 205
+    nsecs: 900000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.2912941722
+    y: -19.8997996776
+    z: 9.51577920829
+  torque: 
+    x: 1.40312302392
+    y: -0.105570399848
+    z: 1.79277434083
+---
+header: 
+  seq: 2030
+  stamp: 
+    secs: 205
+    nsecs: 904000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -11.649245271
+    y: 18.4876547768
+    z: -2.08690536911
+  torque: 
+    x: -0.755997112629
+    y: 0.107583556352
+    z: 0.348016010446
+---
+header: 
+  seq: 2031
+  stamp: 
+    secs: 205
+    nsecs: 908000000
+  frame_id: "wrist_3_link"
+wrench: 
+  force: 
+    x: -10.0272783263
+    y: 2.02225564198
+    z: 3.07167801442
+  torque: 
+    x: 0.345401661317
+    y: -0.0247352630559
+    z: 0.650061657688
+---
